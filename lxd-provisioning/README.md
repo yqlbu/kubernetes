@@ -171,7 +171,7 @@ $ ls -l ~/.kube
 total 8
 -rw------- 1 root root 5570 Oct 12 08:05 config
 ```
-##### Try to access k8s cluster without execing into kmaster node.
+##### Try to access k8s cluster without execing into kmaster node
 ```
 $ kubectl get nodes
 NAME        STATUS   ROLES    AGE   VERSION
